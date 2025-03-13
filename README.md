@@ -5,9 +5,13 @@ A gestão eficiente de processos é essencial para o funcionamento de uma biblio
 ## Integrantes
 
 Bernardo Pereira Pinto
+
 Daniel Cardoso de Freitas
+
 Pedro Henrique Figueiredo Martins
+
 Pedro Henrique Lobato Firbida
+
 Pedro Otavio Luz Salgado
 
 ## Professor
