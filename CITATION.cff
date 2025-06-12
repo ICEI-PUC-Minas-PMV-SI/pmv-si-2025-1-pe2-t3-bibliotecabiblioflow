@@ -1,19 +1,19 @@
 cff-version: 1.0.1
 message: Please cite this software using these metadata.
-title: 
+title: Biblioflow
 authors:
-  - family-names: sobrenome do aluno 1
-    given-names: Nome do aluno 1 
-  - family-names: sobrenome do aluno 2
-    given-names: Nome do aluno 2 
-  - family-names: sobrenome do aluno 3
-    given-names: Nome do aluno 3 
-  - family-names: sobrenome do aluno 4
-    given-names: Nome do aluno 4 
-  - family-names: sobrenome do aluno 5
-    given-names: Nome do aluno 5 
-  - family-names: sobrenome do aluno 6
-    given-names: Nome do aluno 6 
+  - family-names: Cardoso de Freitas
+    given-names: Daniel
+  - family-names: Lobato Firbida
+    given-names: Pedro Henrique
+  - family-names: Pereira Pinto
+    given-names: Bernardo
+  - family-names: Luz Salgado
+    given-names: Pedro Otavio
+  - family-names: Gonçalves Machado
+    given-names: Dimitry 
+  - family-names: Figueiredo Martins
+    given-names: Pedro Henrique
   - name-suffix: Professora
     affiliation: PUC Minas
     family-names: Alonso Veloso
