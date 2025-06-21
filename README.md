@@ -8,6 +8,8 @@ Bernardo Pereira Pinto
 
 Daniel Cardoso de Freitas
 
+Dimitry Gonçalves Machado
+
 Pedro Henrique Figueiredo Martins
 
 Pedro Henrique Lobato Firbida
