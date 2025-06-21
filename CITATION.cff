@@ -1,6 +1,6 @@
 cff-version: 1.0.1
 message: Please cite this software using these metadata.
-title: Biblioflow
+title: "Biblioflow"
 authors:
   - family-names: Cardoso de Freitas
     given-names: Daniel
@@ -14,6 +14,7 @@ authors:
     given-names: Dimitry 
   - family-names: Figueiredo Martins
     given-names: Pedro Henrique
+
   - name-suffix: Professora
     affiliation: PUC Minas
     family-names: Alonso Veloso
@@ -27,8 +28,10 @@ authors:
     family-names: Da Mota
     given-names: Rosilane Ribeiro
 keywords:
-  - 
-  - 
+  - "Biblioflow"
+  - "Projeto processos de negócio
+  - "Eixo 2 PUC
+  - " Grupo 1 Eixo 2 2025"
 repository-code: https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe2-t3-bibliotecabiblioflow
 license: CC-BY-4.0
 version: 1.0.0
