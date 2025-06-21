@@ -14,7 +14,7 @@ O DER é a ferramenta que funciona como estrutura fundamental para apresentar as
 
 * `modelo relacional`
 
-O modelo relacionar demonstra o DER de uma forma mais organizada em tabelas permitinda a observação das estruturas que compõem as entidades permitindo um consistência e integridade do processo de gerenciamento da biblioteca.
+O modelo relacionar demonstra o DER de uma forma mais organizada em tabelas permitinda a observação das estruturas que compõem as entidades e uma visualização consistente e íntegra do processo de gerenciamento da biblioteca.
 
 ![Biblioflow (3)](https://github.com/user-attachments/assets/32754e87-03de-4b0d-bd4c-a96d3949956f)
 
