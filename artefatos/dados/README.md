@@ -18,5 +18,3 @@ O modelo relacionar demonstra o DER de uma forma mais organizada em tabelas perm
 
 ![Biblioflow (3)](https://github.com/user-attachments/assets/32754e87-03de-4b0d-bd4c-a96d3949956f)
 
-
-Demais artefatos que julgar pertinentes.
